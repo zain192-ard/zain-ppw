@@ -4,7 +4,8 @@
 title: My sample book
 author: The Jupyter Book Community
 logo: pp.jpg
-
+# Konfigurasi logo
+logo_width: 100px # Ubah ukuran di sini, misalnya 100px atau 150px
 # Mengatur folder output
 _build:
   build_directory: '_site'
